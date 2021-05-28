@@ -1,4 +1,5 @@
 
+Branch `master` use RedisOperations, and `repository` branch use Repository to simplify it.
 
 ```bash
 # run redis via docker
